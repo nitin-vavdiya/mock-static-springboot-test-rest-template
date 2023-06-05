@@ -1,4 +1,4 @@
-## Mock static method om spring boot application while testing with TestRestTemplate
+## Mock static method in spring boot application while testing with TestRestTemplate
 
 ### Reproduce the issue
 1. run `./gradlew test`
